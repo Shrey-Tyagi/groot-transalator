@@ -1,6 +1,6 @@
 # Transalate English into Groot
 
-The repo has code to convert English text into Groot, it use funtranslations [API](https://funtranslations.com/groot) to translate the text. I'm groot! 😇
+The repo has code to convert English text into Groot, it uses funtranslations [API](https://funtranslations.com/groot) to translate the text. I'm groot! 😇
 
 ## Tech Stack Used 
 * Vanilla JS 
